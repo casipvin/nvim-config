@@ -15,4 +15,4 @@ Leader = Spacja
 - Ctrl + Z to przejście na lewy tab
 - Ctrl + C to przejście na prawy tab
   
-Biężące aktualizację w zależności od czasu i chęci.
+Biężące aktualizacje w zależności od czasu i chęci.
